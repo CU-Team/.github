@@ -22,12 +22,9 @@
 
 ### 프로젝트 결과물
 
-- 팀 발표자료(PDF) ← 필수
-- 시연영상 ← 필수
-- 깃헙, 피그마, 테스트 서버, 도메인 링크 등 원하는 형식으로 공유 ← 선택
-    - 백엔드 [https://github.com/CU-Team/back-end](https://github.com/CU-Team/back-end)
-    - 프론트엔드 [https://github.com/CU-Team/front-end](https://github.com/CU-Team/front-end)
-    - 피그마 [https://www.figma.com/file/1iSpr4JDyiglYIGQAKnyt5/유니톤9th_CU?node-id=1%3A1336](https://www.figma.com/file/1iSpr4JDyiglYIGQAKnyt5/%EC%9C%A0%EB%8B%88%ED%86%A49th_CU?node-id=1%3A1336)
+- 프론트엔드: [https://github.com/CU-Team/front-end](https://github.com/CU-Team/front-end)
+- 백엔드: [https://github.com/CU-Team/back-end](https://github.com/CU-Team/back-end)
+- 피그마: [https://www.figma.com/file/1iSpr4JDyiglYIGQAKnyt5/유니톤9th_CU?node-id=1%3A1336](https://www.figma.com/file/1iSpr4JDyiglYIGQAKnyt5/%EC%9C%A0%EB%8B%88%ED%86%A49th_CU?node-id=1%3A1336)
 
 ### **협업툴, 디자인, 기술 스택 리스트**
 
